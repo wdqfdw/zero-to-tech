@@ -12,7 +12,7 @@ npm run dev          # http://localhost:3000   （Next 默认端口是 3000）
 ## 把你的 4.4 项目（`zero-to-tech`）迁成这样：整包替换
 
 1. 把 `~/zero-to-tech` 里**除隐藏的 `.git` 外的所有文件删掉**。
-2. 把本 demo 下的所有文件拷进去（`node_modules`、`.next` 不用拷）。
+2. 把本 demo 下的所有文件拷进去（`node_modules`、`.next` 不用拷）
 3. 跑起来确认还是那个网站：
    ```bash
    npm install
